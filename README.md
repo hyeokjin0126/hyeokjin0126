@@ -42,6 +42,6 @@
 ### [https://hyeokjin0126.github.io/Portfolio/](https://hyeokjin0126.github.io/Portfolio/)
 
 # Blog
-### [https://hyeokjin0126.tistory.com/category/Aws](https://hyeokjin0126.tistory.com/category/Aws)
-### [https://hyeokjin0126.tistory.com/category/Kubernetes](https://hyeokjin0126.tistory.com/category/Kubernetes)
-### [https://hyeokjin0126.tistory.com/category/Backend](https://hyeokjin0126.tistory.com/category/Backend)
+### [Aws](https://hyeokjin0126.tistory.com/category/Aws)
+### [Kubernetes](https://hyeokjin0126.tistory.com/category/Kubernetes)
+### [Backend](https://hyeokjin0126.tistory.com/category/Backend)
