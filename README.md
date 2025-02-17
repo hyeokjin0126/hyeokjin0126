@@ -38,5 +38,5 @@
 
 </td></tr></table>  
 
-# My Project  
+# My Portfolio  
 ### [https://hyeokjin0126.github.io/Portfolio/](https://hyeokjin0126.github.io/Portfolio/)
