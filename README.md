@@ -40,3 +40,8 @@
 
 # My Portfolio  
 ### [https://hyeokjin0126.github.io/Portfolio/](https://hyeokjin0126.github.io/Portfolio/)
+
+# Blog
+### [https://hyeokjin0126.tistory.com/category/Aws](https://hyeokjin0126.tistory.com/category/Aws)
+### [https://hyeokjin0126.tistory.com/category/Kubernetes](https://hyeokjin0126.tistory.com/category/Kubernetes)
+### [https://hyeokjin0126.tistory.com/category/Backend](https://hyeokjin0126.tistory.com/category/Backend)
