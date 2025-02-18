@@ -7,21 +7,6 @@
   <li>🏆 2024 클라우드 전국 기능경기대회 AWS 장려상</li>
 </ul>
 
-<h3>Blog</h3>
-<p>
-  <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Aws%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
-
-  <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Kubernetes%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
-  
-  <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Backend%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
-</p>
-
 <h3>AWS Services</h3>
 <p>  
   <img src="https://img.shields.io/badge/Amazon%20EKS-326CE5?style=flat-square&logo=Amazon-EKS&logoColor=white" height="25"/>
