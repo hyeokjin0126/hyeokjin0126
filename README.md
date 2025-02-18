@@ -9,16 +9,16 @@
 <p>  
   <img src="https://img.shields.io/badge/Amazon%20EKS-326CE5?style=flat-square&logo=Amazon-EKS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20WAF-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-007A91?style=flat-square&logo=Amazon-API-Gateway&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon%20SQS-5A2D90?style=flat-square&logo=Amazon-SQS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/OpenSearch-FF6600?style=flat-square&logo=elasticsearch&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF7F00?style=flat-square&logo=Amazon-CloudWatch&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon%20WAF-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20CloudFront-7142CD?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20Route%2053-0066CC?style=flat-square&logo=Amazon%20Route%2053&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20SQS-5A2D90?style=flat-square&logo=Amazon-SQS&logoColor=white" height="25"/>
 </p>
 
 <h3>Programming Languages</h3>
