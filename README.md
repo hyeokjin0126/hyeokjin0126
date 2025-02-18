@@ -3,8 +3,8 @@
 <tr>
 
 <td valign="top" width="33%">
-  <p>AWS Services</p>
   <div align="center">  
+    <p>AWS Services</p>
     <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20Lambda-FF9900?style=flat-square&logo=Amazon-Lambda&logoColor=white"/>
@@ -17,7 +17,6 @@
 <td valign="top" width="33%">
   <div align="center">  
     <p>Programming Languages</p>
-    <br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -27,8 +26,8 @@
 </td>
 
 <td valign="top" width="33%">
-  ### DevOps & Tools  
   <div align="center">  
+    <p>DevOps & Tools  </p>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
