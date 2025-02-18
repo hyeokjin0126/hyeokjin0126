@@ -1,3 +1,5 @@
+<h2>해결책을 찾는 데 삶을 바칩니다</h2>
+
 <h3>Awards</h3>
 <ul>
   <li>2023 클라우드 지방 기능경기대회 AWS 동메달</li>
@@ -9,7 +11,7 @@
 <p>  
   <img src="https://img.shields.io/badge/Amazon%20EKS-326CE5?style=flat-square&logo=Amazon-EKS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon%20WAF-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20WAF-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-007A91?style=flat-square&logo=Amazon-API-Gateway&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/OpenSearch-FF6600?style=flat-square&logo=elasticsearch&logoColor=white" height="25"/>
