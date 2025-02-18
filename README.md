@@ -47,7 +47,7 @@
 
 <h3>Blog</h3>
 <ul>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank>"Aws</a> </li>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank>"kubernetes</a> </li>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank>"Backend</a> </li>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank>">Aws</a> </li>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank>">kubernetes</a> </li>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank>">Backend</a> </li>
 </ul>
