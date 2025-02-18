@@ -1,4 +1,4 @@
-<h3>AWS Services</h3>
+<h2>AWS Services</h2>
 <p>  
   <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white" height="30"/>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white" height="30"/>
 </p>
 
-<h3>Programming Languages</h3>
+<h2>Programming Languages</h2>
 <p>  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Express&logoColor=white" height="30"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="30"/>
 </p>
 
-<h3>DevOps & Tools</h3>
+<h2>DevOps & Tools</h2>
 <p>  
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="30"/>
