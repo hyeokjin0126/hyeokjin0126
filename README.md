@@ -8,11 +8,19 @@
 </ul>
 
 <h3>Blog</h3>
-<ul>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank">Aws</a> </li>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank">Kubernetes</a> </li>
-  <li> <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank">Backend</a> </li>
-</ul>
+<p>
+  <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/Aws%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
+  </a>
+
+  <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/Kubernetes%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
+  </a>
+  
+  <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/Backend%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
+  </a>
+</p>
 
 <h3>AWS Services</h3>
 <p>  
@@ -51,5 +59,3 @@
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F00?style=flat-square&logo=Amazon-SQS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20VPC-7142CD?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
 </p>
-
-
