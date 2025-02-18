@@ -37,15 +37,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Express&logoColor=black" height="25"/>
-  <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Aws%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
-  <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Kubernetes%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
-  <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank" style="text-decoration: none;"> 
-    <img src="https://img.shields.io/badge/Backend%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" height="25"/> 
-  </a>
 </p>
 
 <h3>Things I'm Exploring</h3>
