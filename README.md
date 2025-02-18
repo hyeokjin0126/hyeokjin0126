@@ -44,3 +44,10 @@
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F00?style=flat-square&logo=Amazon-SQS&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20VPC-7142CD?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
 </p>
+
+<h3>Blog</h3>
+<ul>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Aws" target="_blank>"Aws</a> </li>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Kubernetes" target="_blank>"kubernetes</a> </li>
+  <li> <a href="https://hyeokjin0126.tistory.com/category/Backend" target="_blank>"Backend</a> </li>
+</ul>
