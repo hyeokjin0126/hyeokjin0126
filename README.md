@@ -4,7 +4,7 @@
 
 <td valign="top" width="33%">
   <div align="center">  
-    <p style="font-size: 20px;">AWS Services</p>
+    ### AWS Services
     <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20Lambda-FF9900?style=flat-square&logo=Amazon-Lambda&logoColor=white"/>
