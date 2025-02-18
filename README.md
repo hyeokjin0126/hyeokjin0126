@@ -34,8 +34,8 @@
 <h3>DevOps & Tools</h3>
 <p>  
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" height="25"/>
-  <p> <img src="https://img.shields.io/badge/Prometheus-FF6A00?style=flat-square&logo=Prometheus&logoColor=white" height="25"/> </p>
-  <p> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white" height="25"/> </p>
+  <img src="https://img.shields.io/badge/Prometheus-FF6A00?style=flat-square&logo=Prometheus&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Express&logoColor=black" height="25"/>
