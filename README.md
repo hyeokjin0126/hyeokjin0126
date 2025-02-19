@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Express&logoColor=black" height="25"/>
 </p>
 
