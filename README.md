@@ -46,4 +46,6 @@
 <p>  
   <img src="https://img.shields.io/badge/Amazon%20ElastiCache-DC382D?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Amazon%20Glue-00A1C9?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20IAM-002F36?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20Athena-4B0082?style=flat-square&logo=amazonwebservices&logoColor=white" height="25"/>
 </p>
