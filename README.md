@@ -1,3 +1,3 @@
 | Project | Description | link |
 |---|---|---|
-| naver-captcha | naver captcha 인증 해제 | [🔗](https://github.com/hyeokjin0126/naver-captcha) |
+| browser-bright | brower 밝기 조절 | [README.md](https://github.com/hyeokjin0126/browser-bright/tree/main) |
