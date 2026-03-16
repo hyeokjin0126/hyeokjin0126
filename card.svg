@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880" height="545" viewBox="0 0 880 545" xmlns="http://www.w3.org/2000/svg">
+    <rect width="880" height="545" fill="#ffffff" stroke="none"/>
+    
+    <style>
+        .base { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #000000; }
+        .name { font-size: 38px; font-weight: 800; text-transform: uppercase; }
+        .section-title { font-size: 19px; font-weight: 800; text-transform: uppercase; }
+        .label { font-size: 15px; font-weight: 800; }
+        .value { font-size: 15px; font-weight: 400; }
+        .bold-text { font-weight: 800; }
+        .line { stroke: #000000; stroke-width: 1.5; }
+
+        @media (prefers-color-scheme: dark) {
+            rect { fill: #0d1117; }
+            .base { fill: #ffffff; }
+            .line { stroke: #ffffff; }
+        }
+    </style>
+
+    <g transform="translate(40, 55)">
+        <text y="0" class="base name">이진혁 / Lee Jin Hyeok</text>
+        <g transform="translate(0, 50)">
+            <text y="0" class="base label">AGE<tspan font-weight="400" xml:space="preserve">  20 (2006.01.26)</tspan></text>
+            <text y="28" class="base label">EMAIL<tspan font-weight="400" xml:space="preserve">  hyeokjin0126@gmail.com</tspan></text>
+            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  2026.03.16 07:46:54 (aactions-bot)</tspan></text>
+        </g>
+    </g>
+
+    <line x1="40" y1="185" x2="840" y2="185" class="line"/>
+
+    <g transform="translate(40, 230)">
+        <g>
+            <text y="0" class="base section-title">ACHIEVEMENTS</text>
+            <text y="35" class="base value"><tspan class="bold-text">2024.04.05</tspan><tspan xml:space="preserve">  -  </tspan>지방기능경기대회 클라우드 컴퓨팅 금메</text><text y="61" class="base value"><tspan class="bold-text">2024.08.30</tspan><tspan xml:space="preserve">  -  </tspan>전국기능경기대회 클라우드 컴퓨팅 장려상</text>
+        </g>
+
+        <g transform="translate(0, 132)">
+            <text y="0" class="base section-title">CERTIFICATIONS</text>
+            <text y="35" class="base value"><tspan class="bold-text">2025.07.22</tspan><tspan xml:space="preserve">  -  </tspan>컴퓨터 활용 능력 1급</text>
+        </g>
+        
+        <g transform="translate(0, 238)">
+            <text y="0" class="base section-title">EXPERIENCE</text>
+            <text y="35" class="base value"><tspan class="bold-text">(주)글로벌탑넷</tspan><tspan xml:space="preserve">  -  </tspan>2025.01.22 ~ Present</text>
+        </g>
+    </g>
+</svg>
