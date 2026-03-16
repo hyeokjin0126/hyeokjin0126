@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import os
 
 class ProfileCardGenerator:
@@ -74,7 +74,7 @@ class ProfileCardGenerator:
         <g transform="translate(0, 50)">
             <text y="0" class="base label">AGE<tspan font-weight="400" xml:space="preserve">  {self.age} ({self.data['birth']})</tspan></text>
             <text y="28" class="base label">EMAIL<tspan font-weight="400" xml:space="preserve">  {self.data['contact']['email']}</tspan></text>
-            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now().strftime("%Y.%m.%d %H:%M:%S")} (aactions-bot)</tspan></text>
+            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now(timezone(timedelta(hours=9))).strftime("%Y.%m.%d %H:%M:%S")} (aactions-bot)</tspan></text>
         </g>
     </g>
 
