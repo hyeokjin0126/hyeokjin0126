@@ -1,0 +1,32 @@
+name: Auto Profile Update
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # KST 오전 12시
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        persist-credentials: true
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Update README
+        run: python update.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions-bot"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "docs: ${{ github.repository }} profile 자동 업데이트"
+          git push
