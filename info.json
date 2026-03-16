@@ -1,0 +1,26 @@
+{
+    "names": {
+        "ko": "이진혁",
+        "en": "Lee Jin Hyeok"
+    },
+
+    "birth": "2006.01.26",
+
+    "contact": {
+        "email": "hyeokjin0126@gmail.com",
+        "github": "https://github.com/hyeokjin0126"
+    },
+    
+    "achievements": [
+        { "date": "2024.04.05", "title": "지방기능경기대회 클라우드 컴퓨팅 금메" },
+        { "date": "2024.08.30", "title": "전국기능경기대회 클라우드 컴퓨팅 장려상" }
+    ],
+    
+    "certifications": [
+        { "date": "2025.07.22", "name": "컴퓨터 활용 능력 1급"  }
+    ],
+    
+    "experience": [
+        { "start": "2025.01.22", "quit": "0000.00.00", "company": "(주)글로벌탑넷" }
+    ]
+}
