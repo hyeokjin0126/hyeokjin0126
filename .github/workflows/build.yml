@@ -30,4 +30,4 @@ jobs:
           git config --global user.email "hyeokjin0126@gmail.com"
           git add .
           git commit -m "docs: ${{ github.repository }} profile 자동 업데이트"
-          git push
+          git push origin main
