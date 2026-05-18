@@ -17,7 +17,8 @@
     ],
     
     "certifications": [
-        { "date": "2025.07.22", "name": "컴퓨터 활용 능력 1급"  }
+        { "date": "2025.07.22", "name": "컴퓨터 활용 능력 1급"  },
+        { "date": "2026.03.27", "name": "SQLD"  }
     ],
     
     "experience": [
