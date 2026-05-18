@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="880" height="545" viewBox="0 0 880 545" xmlns="http://www.w3.org/2000/svg">
-    <rect width="880" height="545" fill="#ffffff" stroke="none"/>
+<svg width="880" height="571" viewBox="0 0 880 571" xmlns="http://www.w3.org/2000/svg">
+    <rect width="880" height="571" fill="#ffffff" stroke="none"/>
     
     <style>
         .base { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #000000; }
@@ -23,7 +23,7 @@
         <g transform="translate(0, 50)">
             <text y="0" class="base label">AGE<tspan font-weight="400" xml:space="preserve">  20 (2006.01.26)</tspan></text>
             <text y="28" class="base label">EMAIL<tspan font-weight="400" xml:space="preserve">  hyeokjin0126@gmail.com</tspan></text>
-            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  2026.05.17 10:57:05 (aactions-bot)</tspan></text>
+            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  2026.05.18 09:40:02 (aactions-bot)</tspan></text>
         </g>
     </g>
 
@@ -37,10 +37,10 @@
 
         <g transform="translate(0, 132)">
             <text y="0" class="base section-title">CERTIFICATIONS</text>
-            <text y="35" class="base value"><tspan class="bold-text">2025.07.22</tspan><tspan xml:space="preserve">  -  </tspan>컴퓨터 활용 능력 1급</text>
+            <text y="35" class="base value"><tspan class="bold-text">2025.07.22</tspan><tspan xml:space="preserve">  -  </tspan>컴퓨터 활용 능력 1급</text><text y="61" class="base value"><tspan class="bold-text">2026.03.27</tspan><tspan xml:space="preserve">  -  </tspan>SQLD</text>
         </g>
         
-        <g transform="translate(0, 238)">
+        <g transform="translate(0, 264)">
             <text y="0" class="base section-title">EXPERIENCE</text>
             <text y="35" class="base value"><tspan class="bold-text">(주)글로벌탑넷</tspan><tspan xml:space="preserve">  -  </tspan>2025.01.22 ~ Present</text>
         </g>
