@@ -73,7 +73,8 @@ class ProfileCardGenerator:
         <text y="0" class="base name">{self.data['names']['ko']} / {self.data['names']['en']}</text>
         <g transform="translate(0, 50)">
             <text y="0" class="base label">BIRTH<tspan font-weight="400" xml:space="preserve">  {self.data['birth']}</tspan></text>
-            <text y="28" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now(timezone(timedelta(hours=9))).strftime("%Y.%m.%d %H:%M:%S")}</tspan></text>
+            <text y="28" class="base label">EMAIL<tspan font-weight="400" xml:space="preserve">  hyeokjin0126@gmail.com</tspan></text>
+            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now(timezone(timedelta(hours=9))).strftime("%Y.%m.%d %H:%M:%S")}</tspan></text>
         </g>
     </g>
 
@@ -82,17 +83,17 @@ class ProfileCardGenerator:
     <g transform="translate(40, {self.vertical_padding + 175})">
         <g>
             <text y="0" class="base section-title">ACHIEVEMENTS</text>
-            {"".join([f'<text y="{7 + i*self.line_height}" class="base value"><tspan class="bold-text">{a["date"]}</tspan><tspan xml:space="preserve">  -  </tspan>{a["title"]}</text>' for i, a in enumerate(self.data['achievements'])])}
+            {"".join([f'<text y="{35 + i*self.line_height}" class="base value"><tspan class="bold-text">{a["date"]}</tspan><tspan xml:space="preserve">  -  </tspan>{a["title"]}</text>' for i, a in enumerate(self.data['achievements'])])}
         </g>
 
         <g transform="translate(0, {achieve_total_h})">
             <text y="0" class="base section-title">CERTIFICATIONS</text>
-            {"".join([f'<text y="{7 + i*self.line_height}" class="base value"><tspan class="bold-text">{c["date"]}</tspan><tspan xml:space="preserve">  -  </tspan>{c["name"]}</text>' for i, c in enumerate(self.data['certifications'])])}
+            {"".join([f'<text y="{35 + i*self.line_height}" class="base value"><tspan class="bold-text">{c["date"]}</tspan><tspan xml:space="preserve">  -  </tspan>{c["name"]}</text>' for i, c in enumerate(self.data['certifications'])])}
         </g>
         
         <g transform="translate(0, {achieve_total_h + cert_total_h})">
             <text y="0" class="base section-title">EXPERIENCE</text>
-            {"".join([f'<text y="{7 + i*self.exp_item_height}" class="base value"><tspan class="bold-text">{e["company"]}</tspan><tspan xml:space="preserve">  -  </tspan>{e["period"]}</text>' for i, e in enumerate(self.exp_list)])}
+            {"".join([f'<text y="{35 + i*self.exp_item_height}" class="base value"><tspan class="bold-text">{e["company"]}</tspan><tspan xml:space="preserve">  -  </tspan>{e["period"]}</text>' for i, e in enumerate(self.exp_list)])}
         </g>
     </g>
 </svg>'''
