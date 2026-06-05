@@ -72,9 +72,8 @@ class ProfileCardGenerator:
     <g transform="translate(40, {self.vertical_padding})">
         <text y="0" class="base name">{self.data['names']['ko']} / {self.data['names']['en']}</text>
         <g transform="translate(0, 50)">
-            <text y="0" class="base label">AGE<tspan font-weight="400" xml:space="preserve">  {self.age}</tspan></text>
-            <text y="28" class="base label">BIRTH<tspan font-weight="400" xml:space="preserve">  {self.data['birth']}</tspan></text>
-            <text y="56" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now(timezone(timedelta(hours=9))).strftime("%Y.%m.%d %H:%M:%S")})</tspan></text>
+            <text y="0" class="base label">BIRTH<tspan font-weight="400" xml:space="preserve">  {self.data['birth']}</tspan></text>
+            <text y="28" class="base label">LAST UPDATED<tspan font-weight="400" xml:space="preserve">  {datetime.now(timezone(timedelta(hours=9))).strftime("%Y.%m.%d %H:%M:%S")}</tspan></text>
         </g>
     </g>
 
