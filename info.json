@@ -19,7 +19,8 @@
     "certifications": [
         { "date": "2025.07.22", "name": "컴퓨터 활용 능력 1급"  },
         { "date": "2026.03.27", "name": "SQLD"  },
-        { "date": "2026.06.01", "name": "AWS SAA"  }
+        { "date": "2026.06.01", "name": "AWS SAA" },
+        { "date": "2026.09.11", "name": "정보처리기사" }
     ],
     
     "experience": [
